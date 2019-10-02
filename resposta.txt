@@ -1,0 +1,2 @@
+O problema é a atualização de um mesmo arquivo ao mesmo tempo, pois toda vez que for mexer teremos que baixar novamente 
+o arquivo e podem também ocorrer falhas na comunicação o que prejudicaria o progresso do projeto.
